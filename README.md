@@ -1,4 +1,4 @@
-# Maxwellbayne Scraper
+# Property Details Scraper
 This app created using Python with Selenium framework.
 
 This app scraping properties detail information from maxwellbaynes website and export it to JSON and CSV file.
@@ -29,5 +29,5 @@ Make sure that all preprequisite and Chromedriver was installed on your machine.
 
 On your command line:
 ```bash
-python maxwellbaynes_scraper_new.py
+python property_scraper.py
 ```
