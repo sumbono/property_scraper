@@ -1,0 +1,10 @@
+url for download chromedriver:
+https://sites.google.com/a/chromium.org/chromedriver/home
+
+Installation instruction:
+- You should have installed Google Chrome browser on your machine.
+- Check the version in the settings ==> help ==> about Google Chrome.
+- Then, visit this url: https://sites.google.com/a/chromium.org/chromedriver/home
+- and download the Chromedriver with the same version as your Google Chrome browser.
+- Choose appropriate OS version: Linux (chromedriver_linux64.zip), macOS (chromedriver_mac64.zip), or Windows (chromedriver_win32.zip).
+- Then, extract the file: put in the same folder as your notebook file (.ipynb) or python script file (.py).
